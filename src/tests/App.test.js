@@ -8,7 +8,6 @@ import AddProduct from '../Components/AddProduct/AddProduct';
 import EditProduct from '../Components/EditProduct/EditProduct';
 import Login from "../Components/Login/Login";
 import Navbar from '../Components/Navbar/Navbar';
-import React from "react";
 import Orders from "../Components/Orders/Orders";
 import Product from "../Components/Products/Product/Product";
 import Signup from "../Components/Signup/Signup";
